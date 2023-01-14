@@ -1,9 +1,3 @@
-# Python-Workshop-GitChicks
-
-
-[Python Challenge](workshop.py)
-
-
 numCategories = input(f'How many categories would you like to budget for?\n')
 if not numCategories.isnumeric():
     numCategories = input(
